@@ -77,6 +77,12 @@ ul li a{
     line-height: 7px;
 }
 /* CONTACT_SECTION */
+.contact-heading{
+    color:#FCAF02;
+    margin-left: 40px;
+    margin-top: 60px;
+
+}
 #name{
     box-sizing: border-box;
     border: 2px solid #FCAF02;
