@@ -45,21 +45,22 @@ ul li a{
 
 /* INTRO_SECTION */
 .intro-heading{
-    color: white;
+    color: #ffffff;
     padding: 40px 40px 20px 40px;
-    width: 800px;
-    height: 50px;
+    width: 50%;
+    height: 60px;
 }
 .intro-para{
     display: inline-block;
-    color: white;
+    color: #ffffff;
     padding: 20px 40px 40px 40px;
-    width: 65%;
+    width: 60%;
 }
 .intro-img{
     float: right;
-    width: 450px;
+    width: 400px;
     padding-left: 50px;
+    padding-top: 0%;
 }
 .login-button{
     padding: 15px 40px;
@@ -159,6 +160,6 @@ td{
 .final-footer{
     background-color: #FCAF02;
     color: #000000;
-    border-right: solid black 2px;
-    border-left: solid black 2px;
+    border-right: solid  #000000; 2px;
+    border-left: solid  #000000; 2px;
 }
